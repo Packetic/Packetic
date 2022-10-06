@@ -1,19 +1,13 @@
-### Hi there 👋
-![](https://komarev.com/ghpvc/?username=your-github-username)
+## Hi there 👋
+![](https://komarev.com/ghpvc/?username=Packetic)
+<br/>
 <b>Bio</b>
-</br>
-😄 I'm Denis Panov, 19 y.o. junior <b>Android Developer</b> based in Saint-Petersburg, Russia.
-<!--
-**Packetic/Packetic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on <b>RickAndMortyAPI</b> app.
+- 🌱 I’m currently learning <b>Java and Kotlin</b>.
+- 👯 I’m looking for a team and real-world projects to work and contribute with great people.
+- 🤔 I’m looking for help with <b>Networking with OkHttp</b>.
+- 💬 Ask me about <b>Android, Java, Kotlin or any related tech stuff</b>.
+- 📫 Checkout my CV
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
