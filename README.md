@@ -10,7 +10,7 @@
 ###
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=Packetic&show_icons=true&theme=dracula" height=195 width=500>
+  <img src="https://github-readme-stats.vercel.app/api?username=Packetic&show_icons=true&theme=dracula" height=195 width=450>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Packetic&layout=compact&hide=javascript&theme=dracula" height=195 width=350>
 </div>
 
