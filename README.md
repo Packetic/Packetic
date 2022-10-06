@@ -2,7 +2,7 @@
 ![](https://komarev.com/ghpvc/?username=Packetic)
 <br/>
 <br/>
-<b>Bio</b>
+<b>About me</b>
 - 🔭 I’m currently working on [RickAndMortyAPI](https://github.com/Packetic/RickAndMortyAPI) app.
 - 🌱 I’m currently learning <b>Java and Kotlin</b>.
 - 👯 I’m looking for a team and real-world projects to work and contribute with great people.
