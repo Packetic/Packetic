@@ -1,6 +1,7 @@
 ### Hi there 👋
-<b>Bio</b>
 ![](https://komarev.com/ghpvc/?username=your-github-username)
+<b>Bio</b>
+</br>
 😄 I'm Denis Panov, 19 y.o. junior <b>Android Developer</b> based in Saint-Petersburg, Russia.
 <!--
 **Packetic/Packetic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
