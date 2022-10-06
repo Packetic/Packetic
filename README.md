@@ -24,4 +24,4 @@
   <a href="https://leetcode.com/quetza1"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"></a>
 </div>
 
-![Snake Animation](github-snake-dark.svg#gh-dark-mode-only)
+![Snake animation](https://github.com/Packetic/Packetic/blob/output/github-contribution-grid-snake.svg)
