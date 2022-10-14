@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on [Wizard Cards App](https://github.com/Roman-074/Wizard-Cards-App).
 - 🌱 I’m currently learning <b>Java and Kotlin</b>.
 - 👯 I’m looking for a team and real-world projects to work and contribute with great people.
-- 🤔 I’m looking for help with <b>MVI</b>.
+- 🤔 I’m looking for help with <b>TEA</b>.
 - 💬 Ask me about <b>Android, Java, Kotlin or any related tech stuff</b>.
 - 📫 Checkout my [CV](https://github.com/Packetic/Packetic/blob/main/0hx0p1wrozm41.png)
 
