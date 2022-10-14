@@ -1,6 +1,6 @@
 ## Hi there 👋
 <b>About me</b>
-- 🔭 I’m currently working on [RickAndMortyAPI](https://github.com/Packetic/RickAndMortyAPI) app.
+- 🔭 I’m currently working on [Wizard Cards App](https://github.com/Roman-074/Wizard-Cards-App).
 - 🌱 I’m currently learning <b>Java and Kotlin</b>.
 - 👯 I’m looking for a team and real-world projects to work and contribute with great people.
 - 🤔 I’m looking for help with <b>MVI</b>.
