@@ -1,10 +1,9 @@
-## Hi there 👋
-<b>About me</b>
-- 🔭 I’m currently working on [Wizard Cards App](https://github.com/Roman-074/Wizard-Cards-App).
-- 🌱 I’m currently learning <b>Java and Kotlin</b>.
-- 👯 I’m looking for a team and real-world projects to work and contribute with great people.
-- 🤔 I’m looking for help with <b>TEA</b>.
-- 💬 Ask me about <b>Android, Java, Kotlin or any related tech stuff</b>.
+## Всем привет 👋
+<b>Обо мне</b>
+- 😄 Меня зовут Денис Панов, я Android-разработчик
+- 🔭 Сейчас я работаю над проектом [Wizard Cards App](https://github.com/Roman-074/Wizard-Cards-App).
+- 🌱 Изучаю <b>Android-разработку на Kotlin, читаю статьи и книги по Java</b>.
+- 👯 Сейчас я активно ищу работу, буду рад любому деловому предложению.
 - 📫 Checkout my [CV](https://github.com/Packetic/Packetic/blob/main/%D0%A0%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5%20%D0%94%D0%B5%D0%BD%D0%B8%D1%81%20%D0%9F%D0%B0%D0%BD%D0%BE%D0%B2.pdf)
 
 ###
